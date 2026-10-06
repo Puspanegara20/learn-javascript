@@ -1,1 +1,1 @@
-console.log('hello world')
+document.writeln("Hello, World!");
